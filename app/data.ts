@@ -1,8 +1,8 @@
 type Project = {
   name: string
   description: string
-  // link: string
-  // video: string
+  link: string
+  video: string
   id: string
 }
 
@@ -32,6 +32,8 @@ export const PROJECTS: Project[] = [
     name: 'Self-hosted server using Ubuntu and Nginx',
     description: 'Converted older, resource-constrained hardware into a web/development server',
     id: 'project1',
+    link: '',
+    video: '',
   },
   // {
   //   name: 'Motion Primitives',
