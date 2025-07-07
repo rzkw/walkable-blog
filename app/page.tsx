@@ -137,8 +137,8 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            Focused on creating intuitive and performant web experiences.
-            Bridging the gap between design and development.
+            Transitioning out of a career in hospitality into tech.
+            US-based entity to structure a personal homelab; self-directed learning and professional development.
           </p>
         </div>
       </motion.section>
