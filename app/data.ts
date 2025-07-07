@@ -1,8 +1,8 @@
 type Project = {
   name: string
   description: string
-  link: string
-  video: string
+  // link: string
+  // video: string
   id: string
 }
 
@@ -49,7 +49,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Cloud/IT Specialist',
     start: '2025',
     end: 'Present',
-    // link: 'https://ibelick.com',
+    link: '',
     id: 'work1',
   },
   {
