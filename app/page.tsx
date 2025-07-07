@@ -138,7 +138,7 @@ export default function Personal() {
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
             Transitioning out of a career in hospitality into tech.
-            US-based entity to structure a personal homelab; self-directed learning and professional development.
+            This is my space to structure personal homelabs, self-directed learning and professional development.
           </p>
         </div>
       </motion.section>
