@@ -31,6 +31,8 @@ export const PROJECTS: Project[] = [
   {
     name: 'Self-hosted server using Ubuntu and Nginx',
     description: 'Converted older, resource-constrained hardware into a web/development server',
+    link: 'https://motion-primitives.com/',
+    video:'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/XSfIvT7BUWbPRXhrbLed/ee6871c9-8400-49d2-8be9-e32675eabf7e.mp4?_a=DATAdtAAZAA0',
     id: 'project1',
   },
   // {
@@ -49,7 +51,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'IT Consultant',
     start: '2025',
     end: 'Present',
-    // link: 'https://ibelick.com',
+    link: 'https://ibelick.com',
     id: 'work1',
   },
   {
