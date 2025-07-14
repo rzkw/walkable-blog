@@ -31,9 +31,9 @@ export const PROJECTS: Project[] = [
   {
     name: 'Self-hosted server using Ubuntu and Nginx',
     description: 'Converted older, resource-constrained hardware into a web/development server',
-    link: 'https://motion-primitives.com/',
-    video:'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/XSfIvT7BUWbPRXhrbLed/ee6871c9-8400-49d2-8be9-e32675eabf7e.mp4?_a=DATAdtAAZAA0',
     id: 'project1',
+    link: '',
+    video: '',
   },
   // {
   //   name: 'Motion Primitives',
@@ -48,10 +48,10 @@ export const PROJECTS: Project[] = [
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
     company: 'Walkable Limited Liability Company',
-    title: 'IT Consultant',
+    title: 'Cloud/IT Specialist',
     start: '2025',
     end: 'Present',
-    link: 'https://ibelick.com',
+    link: '',
     id: 'work1',
   },
   {
@@ -103,7 +103,7 @@ export const BLOG_POSTS: BlogPost[] = [
 
 export const SOCIAL_LINKS: SocialLink[] = [
   {
-    label: 'Github',
+    label: 'GitHub',
     link: 'https://github.com/rzkw',
   },
   // {
