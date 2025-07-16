@@ -1,0 +1,59 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-6405ef9acf0ddcb8.js",
+      "static/chunks/4bd1b696-45c840e58526139c.js",
+      "static/chunks/684-f09827a6083a976c.js",
+      "static/chunks/main-app-e4ba901fd5755384.js",
+      "static/chunks/app/_not-found/page-1b09f6ef81a754c6.js"
+    ],
+    "/robots.txt/route": [
+      "static/chunks/webpack-6405ef9acf0ddcb8.js",
+      "static/chunks/4bd1b696-45c840e58526139c.js",
+      "static/chunks/684-f09827a6083a976c.js",
+      "static/chunks/main-app-e4ba901fd5755384.js",
+      "static/chunks/app/robots.txt/route-c1911dfd40573473.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-6405ef9acf0ddcb8.js",
+      "static/chunks/4bd1b696-45c840e58526139c.js",
+      "static/chunks/684-f09827a6083a976c.js",
+      "static/chunks/main-app-e4ba901fd5755384.js",
+      "static/css/a91b6ae9819f9498.css",
+      "static/chunks/404-b0f9921a761cd2da.js",
+      "static/chunks/95-2aa3ecd5c6ab0407.js",
+      "static/chunks/app/layout-467b412a714cd4ea.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-6405ef9acf0ddcb8.js",
+      "static/chunks/4bd1b696-45c840e58526139c.js",
+      "static/chunks/684-f09827a6083a976c.js",
+      "static/chunks/main-app-e4ba901fd5755384.js",
+      "static/chunks/404-b0f9921a761cd2da.js",
+      "static/chunks/95-2aa3ecd5c6ab0407.js",
+      "static/chunks/app/page-945ad83ae9654072.js"
+    ],
+    "/blog/layout": [
+      "static/chunks/webpack-6405ef9acf0ddcb8.js",
+      "static/chunks/4bd1b696-45c840e58526139c.js",
+      "static/chunks/684-f09827a6083a976c.js",
+      "static/chunks/main-app-e4ba901fd5755384.js",
+      "static/chunks/404-b0f9921a761cd2da.js",
+      "static/chunks/app/blog/layout-61d843719d7626f2.js"
+    ],
+    "/blog/exploring-the-intersection-of-design-ai-and-design-engineering/page": [
+      "static/chunks/webpack-6405ef9acf0ddcb8.js",
+      "static/chunks/4bd1b696-45c840e58526139c.js",
+      "static/chunks/684-f09827a6083a976c.js",
+      "static/chunks/main-app-e4ba901fd5755384.js",
+      "static/chunks/app/blog/exploring-the-intersection-of-design-ai-and-design-engineering/page-da1133695b7e6f13.js"
+    ],
+    "/blog/example-mdx-metadata/page": [
+      "static/chunks/webpack-6405ef9acf0ddcb8.js",
+      "static/chunks/4bd1b696-45c840e58526139c.js",
+      "static/chunks/684-f09827a6083a976c.js",
+      "static/chunks/main-app-e4ba901fd5755384.js",
+      "static/chunks/app/blog/example-mdx-metadata/page-1f06fd82b28d291b.js"
+    ]
+  }
+}
