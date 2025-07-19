@@ -120,4 +120,4 @@ export const SOCIAL_LINKS: SocialLink[] = [
   // },
 ]
 
-export const EMAIL = '12.treks-peanut@icloud.com'
+export const EMAIL = 'hello@walk-llc.com'
