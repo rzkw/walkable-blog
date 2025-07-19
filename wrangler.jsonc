@@ -6,6 +6,10 @@
     {
         "pattern": "walk-llc.com",
         "custom_domain": true
+    },
+    {
+        "pattern": "*.walk-llc.com/*",
+        "custom_domain": true
     }
   ],
   "compatibility_flags": [
